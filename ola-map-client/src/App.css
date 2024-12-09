@@ -1,0 +1,13 @@
+.home-div {
+  display: flex;
+}
+
+.home-div>div {
+  width: 50%;
+  height: 100vh;
+}
+
+.history-div {
+  display: grid;
+  place-items: center;
+}
